@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "scPipeline"]
 	path = scPipeline
-	url = https://github.com/cran/scPipeline
+	url = https://github.com/sridhara-omics/scpipeline
